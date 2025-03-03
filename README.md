@@ -39,3 +39,5 @@ Impact of Discounts and Promotions
 
 *Conclusion:ABC Retail Store’s sales performance is heavily influenced by seasonal trends and promotional campaigns. To maximize revenue, the store should focus on targeted marketing strategies, inventory management, and customer engagement through loyalty programs and personalized offers.
 
+output:
+![Online C++ Compiler - Programiz - Google Chrome 03-03-2025 03_34_32 PM](https://github.com/user-attachments/assets/ef8af14e-58d2-41a2-812d-1cf4215e52ac)
